@@ -47,9 +47,9 @@ A blazing fast web application to analyze the current trends in the stock a user
 - [**Stock Market Analyser**](https://stock-market-analyser.vercel.app/) 🚀
 
 ### Backend (Heroku)
-- [Stock Market Analyser Server](https://stock-market-analyser-backend.herokuapp.com/)
-- [Stock Market Analyser Linear Regression Model Deployment](https://stock-ml-backend.herokuapp.com/stock_lr/)
-- [Stock Market Analyser ANN Model Deployment](https://stock-analyser-ann.herokuapp.com/)
+- [Stock Market Analyser Server]
+- [Stock Market Analyser Linear Regression Model Deployment]
+- [Stock Market Analyser ANN Model Deployment]
 
 
 ## 🤖Tech-Stack
@@ -86,7 +86,7 @@ A blazing fast web application to analyze the current trends in the stock a user
 
 1. Clone the GitHub repo
    ```
-   $ git clone https://github.com/toshan-luktuke/stock-market-analyser.git
+   $ git clone https://github.com/RushabhM03/Stock-market-predictor.git
    ```
 2. Enter the `client` directory. Install all the required dependencies. Ensure that remove any globally-installed packages like the React CLI, Tailwind CLI, PostCSS CLI or ESLint are uninstalled before proceeding ahead
    ```
